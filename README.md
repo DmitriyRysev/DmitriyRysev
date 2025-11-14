@@ -16,11 +16,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  Обо мне</h3>
+<h3 align="center">👩‍💻  Обо мне</h3>
 
 ###
 
-<p align="left">...</p>
+<p align="center">...</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyRysev&layout=compact&theme=dark" alt="Top Langs" />
@@ -28,11 +28,11 @@
 
 ###
 
-<h3 align="left">🛠 Технологии:</h3>
+<h3 align="center">🛠 Стэк технологий</h3>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
