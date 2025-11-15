@@ -23,7 +23,7 @@
 <p align="center">...</p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyRysev&layout=compact&theme=dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyRysev&layout=compact&theme=dark&langs_count=8" alt="Top Langs" />
 </div>
 
 ###
@@ -32,8 +32,10 @@
 
 ###
 
-<div align="center">
+<div align="center" > &nbsp;&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
